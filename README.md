@@ -20,13 +20,13 @@ terraform apply
 
 | Comand | Description |
 |------|-------------|
-| git clone <repository url> | Clone Repository |
+| git clone ***repository url*** | Clone Repository |
 | git status | View Status |
-| git add <file name> | Stage Change |
+| git add ***file name*** | Stage Change |
 | git add . | Stage All Changes |
 | git commit -m "message" | Commit Changes |
 | git branch | List Branches |
-| git branch <branch name> | Create Branch |
-| git checkout <branch name> | Switch to Named Branch |
+| git branch ***branch name*** | Create Branch |
+| git checkout ***branch name*** | Switch to Named Branch |
 | git log | View Commit History |
 
