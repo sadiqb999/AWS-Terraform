@@ -18,6 +18,8 @@ terraform apply
 
 ## GIT CMDs
 
+| Name | Description |
+|------|-------------|
 | git clone <repository url> | Clone Repository |
 | git status | View Status |
 | git add <file name> | Stage Change |
