@@ -7,7 +7,7 @@
 + [aws_s3_bucket.example](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket)
 + [aws_s3_bucket_versioning.versioning_example](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket_versioning)
 
-## TERRAFORM CMDs
+## TERRAFORM COMMAND
 ```
 terraform init
 terraform fmt
@@ -16,9 +16,9 @@ terraform plan
 terraform apply
 ```
 
-## GIT CMDs
+## GIT
 
-| Name | Description |
+| Comand | Description |
 |------|-------------|
 | git clone <repository url> | Clone Repository |
 | git status | View Status |
